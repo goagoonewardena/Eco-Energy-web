@@ -1,4 +1,4 @@
-"# Eco Energy
+## Eco Energy: Renewable Energy Education Platform
 
 Eco Energy is a static educational website about sustainable power and the transition
 to cleaner energy. It explains renewable, non-renewable, nuclear, and emerging energy
